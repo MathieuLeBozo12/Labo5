@@ -1,0 +1,51 @@
+.puzzle{
+    display: grid;
+    grid-template-areas: 
+    "tl tm tr"
+    "ml mm mr"
+    "bl bm br";
+    gap: 0;
+    padding: 0;
+    width: 300px;
+    height: 300px;
+}
+
+#piece1{
+grid-area: mr;
+}
+
+#piece2{
+    grid-area: bl;
+}
+
+#piece3{
+    grid-area: mm;
+}
+
+#piece4{
+    grid-area: bm;
+}
+
+#piece5{
+    grid-area: tr;
+}
+
+#piece6{
+    grid-area: tl;
+}
+
+#piece7{
+    grid-area: br;
+}
+
+#piece8{
+    grid-area: tm;
+}
+
+#piece9{
+    grid-area: ml;
+}
+
+
+
+
