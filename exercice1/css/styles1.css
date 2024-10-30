@@ -4,11 +4,11 @@
     "tl tm tr"
     "ml mm mr"
     "bl bm br";
-    gap: 0;
-    padding: 0;
     width: 300px;
     height: 300px;
 }
+
+
 
 #piece1{
 grid-area: mr;
