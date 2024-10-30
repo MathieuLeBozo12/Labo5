@@ -12,7 +12,7 @@
     background-color: turquoise;
 }
 
-#conteneur div{
+div{
     border: 1px solid black;
     border-collapse: collapse;
 }
@@ -27,6 +27,7 @@
     display: grid;
     grid-template-columns: 1fr 2fr 3fr;
     grid-template-rows: 2fr 1fr 1fr ;
+    border: 1px solid black;
 }
 
 
