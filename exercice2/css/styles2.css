@@ -41,3 +41,7 @@
 #piece10 { 
     grid-area: p10;
  } 
+
+ .source{
+    padding-top: 22%;
+ }
